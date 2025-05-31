@@ -1,0 +1,1 @@
+-Xmx4096m -Xms4096m -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:G1HeapRegionSize=16M -XX:+ParallelRefProcEnabled
